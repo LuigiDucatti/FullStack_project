@@ -1,0 +1,15 @@
+Trabalho Fullstack bibliografia:
+ 
+backgroud art (jogo): https://en.bandainamcoent.eu/dark-souls/dark-souls-trilogy
+		      https://www.w3schools.com/css/css_background_image.asp
+		      https://www.w3schools.com/css/css_background_repeat.asp
+		      https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images
+			  https://coreui.io/blog/how-to-disable-a-button-in-javascript/#:~:text=Simply%20add%20the%20disabled%20attribute,%3D%22button%22%20disabled%3E%20.
+			  World Looks White - Ultrakill
+			  Maiden in Black - Demon souls
+			  Souls of Mist (Unused) - Demon Souls
+			  Page 7 - Slender The Eight Pages
+			  Distorted Thrumpet - Half Life 2 (unused)
+			  Block World - Yumi Nikke
+
+

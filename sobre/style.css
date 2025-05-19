@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center
+}
+#div{
+    display: flex;
+    padding-top: 50px;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#div1{
+    display: flex;
+    background-color: black;
+    width: 1040px;
+    justify-content: space-around;
+    
+    
+}
+
+#p{
+    color: white;
+    font-size: xx-large;
+}
+
+
+
+#div3{
+    display: flex;
+    width: 300px;
+}
